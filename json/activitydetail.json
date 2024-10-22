@@ -1,0 +1,386 @@
+[
+    {
+        "activity_id": "1",
+        "task_id": 1,
+        "name": "Set for Club Rush Day and brought in 40 new members",
+        "type": "Completed Task",
+        "date_chosen": "2022-08-28",
+        "date made": "08\/28\/2022"
+    },
+    {
+        "activity_id": "1",
+        "task_id": 2,
+        "name": "Organized a fundraiser to sell boba drinks and raised $150",
+        "type": "Completed Task",
+        "date_chosen": "2022-09-15",
+        "date made": "09\/15\/2024"
+    },
+    {
+        "activity_id": "1",
+        "task_id": 3,
+        "name": "Pair Mentors and Mentees",
+        "type": "Completed Task",
+        "date_chosen": "2023-10-14",
+        "date made": "10\/14\/2024"
+    },
+    {
+        "activity_id": "1",
+        "task_id": 4,
+        "name": "2023 Club Activity Award",
+        "type": "Award",
+        "date_chosen": "2023-06-11",
+        "date made": "06\/11\/2023"
+    },
+    {
+        "activity_id": "1",
+        "task_id": 5,
+        "name": "Plan workshops on Python language",
+        "type": "To-Do Task",
+        "date_chosen": "2024-10-05",
+        "date made": "10\/05\/2024"
+    },
+    {
+        "activity_id": "1",
+        "task_id": 6,
+        "name": "Invite professionals from the tech industry to speak about their careers and offer insights",
+        "type": "To-Do Task",
+        "date_chosen": "2024-12-01",
+        "date made": "10\/05\/2024"
+    },
+    {
+        "activity_id": "1",
+        "task_id": 7,
+        "name": "Host Showcase Events for  Computer Club",
+        "type": "To-Do Task",
+        "date_chosen": "2025-02-01",
+        "date made": "10\/05\/2024"
+    },
+    {
+        "activity_id": "2",
+        "task_id": 8,
+        "name": "Brainstorming for the Personal Finance Tracker Website",
+        "type": "Completed Task",
+        "date_chosen": "2023-06-16",
+        "date made": "10\/05\/2024"
+    },
+    {
+        "activity_id": "2",
+        "task_id": 9,
+        "name": "Defined website goals and features (e.g., income tracking, expense categorization, budgeting)",
+        "type": "Completed Task",
+        "date_chosen": "2023-06-26",
+        "date made": "10\/05\/2024"
+    },
+    {
+        "activity_id": "2",
+        "task_id": 10,
+        "name": "Created a project roadmap and timeline for development",
+        "type": "Completed Task",
+        "date_chosen": "2023-06-30",
+        "date made": "10\/05\/2024"
+    },
+    {
+        "activity_id": "2",
+        "task_id": 11,
+        "name": "Finished website",
+        "type": "Completed Task",
+        "date_chosen": "2023-08-30",
+        "date made": "10\/05\/2024"
+    },
+    {
+        "activity_id": "2",
+        "task_id": 12,
+        "name": "Acknowledged the competition rules for the IgniteCS Programming Expo",
+        "type": "Completed Task",
+        "date_chosen": "2023-09-05",
+        "date made": "10\/05\/2024"
+    },
+    {
+        "activity_id": "2",
+        "task_id": 13,
+        "name": "Website demo and presentation preparation",
+        "type": "Completed Task",
+        "date_chosen": "2023-09-20",
+        "date made": "10\/05\/2024"
+    },
+    {
+        "activity_id": "2",
+        "task_id": 14,
+        "name": "IgniteCS Programming Expo Award 3rd Place",
+        "type": "Award",
+        "date_chosen": "2023-11-12",
+        "date made": "10\/05\/2024"
+    },
+    {
+        "activity_id": "2",
+        "task_id": 15,
+        "name": "Gather user feedback to improve the Personal Finance Tracker website",
+        "type": "To-Do Task",
+        "date_chosen": "2025-02-03",
+        "date made": "10\/05\/2024"
+    },
+    {
+        "activity_id": "2",
+        "task_id": 16,
+        "name": "Enhance the SEO of the Personal Finance Tracker website",
+        "type": "To-Do Task",
+        "date_chosen": "2025-05-01",
+        "date made": "10\/05\/2024"
+    },
+    {
+        "activity_id": "2",
+        "task_id": 17,
+        "name": "Utilize social media platforms to increase brand awareness, and drive traffic for the website",
+        "type": "To-Do Task",
+        "date_chosen": "2025-07-01",
+        "date made": "10\/05\/2024"
+    },
+    {
+        "activity_id": "3",
+        "task_id": 18,
+        "name": "Conducted a pre-event math assessment to gauge participants' skills and identify focus areas",
+        "type": "Completed Task",
+        "date_chosen": "2023-06-16",
+        "date made": "10\/05\/2024"
+    },
+    {
+        "activity_id": "3",
+        "task_id": 19,
+        "name": "Delivered a short presentation on a geometry topic to help participants build their knowledge",
+        "type": "Completed Task",
+        "date_chosen": "2023-11-11",
+        "date made": "10\/05\/2024"
+    },
+    {
+        "activity_id": "3",
+        "task_id": 20,
+        "name": "Organized and guided small groups for collaborative problem-solving sessions",
+        "type": "Completed Task",
+        "date_chosen": "2024-02-03",
+        "date made": "10\/05\/2024"
+    },
+    {
+        "activity_id": "3",
+        "task_id": 21,
+        "name": "Bronze Prize for President Volunteer Award",
+        "type": "Award",
+        "date_chosen": "2023-06-09",
+        "date made": "10\/05\/2024"
+    },
+    {
+        "activity_id": "3",
+        "task_id": 22,
+        "name": "Check for Upcoming Events and Update student Contact Information",
+        "type": "To-Do Task",
+        "date_chosen": "2024-10-12",
+        "date made": "10\/05\/2024"
+    },
+    {
+        "activity_id": "3",
+        "task_id": 23,
+        "name": "Distributed feedback forms to gather participants' insights and suggestions",
+        "type": "To-Do Task",
+        "date_chosen": "2024-11-12",
+        "date made": "10\/05\/2024"
+    },
+    {
+        "activity_id": "3",
+        "task_id": 24,
+        "name": "Awarded certificates or small prizes to recognize participants' achievements and foster motivation",
+        "type": "To-Do Task",
+        "date_chosen": "2025-01-15",
+        "date made": "10\/05\/2024"
+    },
+    {
+        "activity_id": "4",
+        "task_id": 25,
+        "name": "Review Course Syllabus. Familiarize myself with the course structure, modules, and key learning objectives",
+        "type": "Completed Task",
+        "date_chosen": "2023-01-10",
+        "date made": "10\/05\/2024"
+    },
+    {
+        "activity_id": "4",
+        "task_id": 26,
+        "name": "Create a weekly study plan outlining specific times to watch lectures, complete assignments, and review materials",
+        "type": "Completed Task",
+        "date_chosen": "2023-01-20",
+        "date made": "10\/05\/2024"
+    },
+    {
+        "activity_id": "4",
+        "task_id": 27,
+        "name": "Watch Lecture Videos and Complete Quizzes",
+        "type": "Completed Task",
+        "date_chosen": "2023-06-03",
+        "date made": "10\/05\/2024"
+    },
+    {
+        "activity_id": "4",
+        "task_id": 28,
+        "name": "Update my resume and online Portfolio",
+        "type": "To-Do Task",
+        "date_chosen": "2024-10-22",
+        "date made": "10\/05\/2024"
+    },
+    {
+        "activity_id": "4",
+        "task_id": 29,
+        "name": "Continue practicing coding in languages used in data science through HackerRank",
+        "type": "To-Do Task",
+        "date_chosen": "2025-03-12",
+        "date made": "10\/05\/2024"
+    },
+    {
+        "activity_id": "5",
+        "task_id": 30,
+        "name": "Onboarding and orientation",
+        "type": "Completed Task",
+        "date_chosen": "2024-06-03",
+        "date made": "10\/05\/2024"
+    },
+    {
+        "activity_id": "5",
+        "task_id": 31,
+        "name": "Assessed Current Password Management System",
+        "type": "Completed Task",
+        "date_chosen": "2024-06-05",
+        "date made": "10\/05\/2024"
+    },
+    {
+        "activity_id": "5",
+        "task_id": 32,
+        "name": "Evaluated password management tools for features, security, and pricing to find the best fit",
+        "type": "Completed Task",
+        "date_chosen": "2024-06-15",
+        "date made": "10\/05\/2024"
+    },
+    {
+        "activity_id": "5",
+        "task_id": 33,
+        "name": "Implementation of a Company-Wide Password Management System",
+        "type": "Completed Task",
+        "date_chosen": "2024-08-01",
+        "date made": "10\/05\/2024"
+    },
+    {
+        "activity_id": "5",
+        "task_id": 34,
+        "name": "Conducted Training about how to use new Company-Wide Password Management System",
+        "type": "Completed Task",
+        "date_chosen": "2024-08-16",
+        "date made": "10\/05\/2024"
+    },
+    {
+        "activity_id": "5",
+        "task_id": 35,
+        "name": "Facilitated the secure migration of passwords to the new management system with minimal user disruption",
+        "type": "Completed Task",
+        "date_chosen": "2024-08-23",
+        "date made": "10\/05\/2024"
+    },
+    {
+        "activity_id": "5",
+        "task_id": 36,
+        "name": "2023 Summer Internship Performance Award",
+        "type": "Award",
+        "date_chosen": "2024-09-04",
+        "date made": "10\/05\/2024"
+    },
+    {
+        "activity_id": "5",
+        "task_id": 37,
+        "name": "Established a support system for users to report issues about the password management system",
+        "type": "To-Do Task",
+        "date_chosen": "2024-11-11",
+        "date made": "10\/05\/2024"
+    },
+    {
+        "activity_id": "5",
+        "task_id": 38,
+        "name": "Write software manual for the Password Management System",
+        "type": "To-Do Task",
+        "date_chosen": "2024-12-05",
+        "date made": "10\/05\/2024"
+    },
+    {
+        "activity_id": "6",
+        "task_id": 39,
+        "name": "Organized team meetings and bonding activities",
+        "type": "Completed Task",
+        "date_chosen": "2024-07-30",
+        "date made": "10\/05\/2024"
+    },
+    {
+        "activity_id": "6",
+        "task_id": 40,
+        "name": "Paired experienced swimmers with younger teammates to provide mentorship and support throughout the season",
+        "type": "Completed Task",
+        "date_chosen": "2024-08-05",
+        "date made": "10\/05\/2024"
+    },
+    {
+        "activity_id": "6",
+        "task_id": 41,
+        "name": "Planed and execute a fundraising event to support team expenses like uniforms or travel costs",
+        "type": "Completed Task",
+        "date_chosen": "2024-09-10",
+        "date made": "10\/05\/2024"
+    },
+    {
+        "activity_id": "6",
+        "task_id": 42,
+        "name": "Coordinated a workshop with a sports psychologist on mental toughness and race strategies",
+        "type": "Completed Task",
+        "date_chosen": "2024-10-01",
+        "date made": "10\/05\/2024"
+    },
+    {
+        "activity_id": "6",
+        "task_id": 43,
+        "name": "San Diego 2024 Swimming Championships",
+        "type": "Completed Task",
+        "date_chosen": "2024-08-01",
+        "date made": "10\/05\/2024"
+    },
+    {
+        "activity_id": "6",
+        "task_id": 44,
+        "name": "Southern California 2024 Swimming Championships",
+        "type": "Completed Task",
+        "date_chosen": "2024-08-12",
+        "date made": "10\/05\/2024"
+    },
+    {
+        "activity_id": "6",
+        "task_id": 45,
+        "name": "Swimming Team Spirit Award",
+        "type": "Award",
+        "date_chosen": "2024-10-06",
+        "date made": "10\/05\/2024"
+    },
+    {
+        "activity_id": "6",
+        "task_id": 46,
+        "name": "Organize study sessions or academic support for teammates",
+        "type": "To-Do Task",
+        "date_chosen": "2024-10-11",
+        "date made": "10\/05\/2024"
+    },
+    {
+        "activity_id": "6",
+        "task_id": 47,
+        "name": "Plan end-of-season events (e.g., banquets, award ceremonies)",
+        "type": "To-Do Task",
+        "date_chosen": "2024-12-29",
+        "date made": "10\/05\/2024"
+    },
+    {
+        "activity_id": "6",
+        "task_id": 48,
+        "name": "Monitor the progress of younger teammates, providing guidance where needed",
+        "type": "To-Do Task",
+        "date_chosen": "2025-03-13",
+        "date made": "10\/05\/2024"
+    }
+]

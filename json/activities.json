@@ -1,0 +1,68 @@
+[
+    {
+        "id": 0,
+        "activity_id": 1,
+        "position": 0,
+        "name": "Club President, AllCity Young Scholar Organization Computer Club",
+        "finished_tasks": 0,
+        "awards": 0,
+        "to_do_tasks": 0,
+        "date created": "03\/02\/2024",
+        "notes": "As Club President of the AllCity Young Scholar Organization Computer Club, I\u2019ve achieved significant milestones and developed key skills. Organizing Club Rush Day brought in 40 new members, enhancing my leadership abilities. A successful boba fundraiser raised $150, improving my marketing skills. Pairing mentors with mentees deepened my understanding of mentorship. Our 2023 Club Activity Award highlighted our collective efforts. Moving forward, I plan to organize Python workshops, invite tech industry professionals, and host project showcase events to enhance my technical, networking, and public speaking skills."
+    },
+    {
+        "id": 0,
+        "activity_id": 2,
+        "position": 1,
+        "name": "The Personal Finance Tracker Website Development",
+        "finished_tasks": 0,
+        "awards": 0,
+        "to_do_tasks": 0,
+        "date created": "04\/03\/2024",
+        "notes": "Completing the Personal Finance Tracker website project allowed me to develop key skills, from planning features like income tracking to winning third place at the IgniteCS Programming Expo. Defining goals and creating a roadmap improved my project management, while preparing the demo enhanced my communication skills. Moving forward, I will focus on enhancing the website, improving SEO, and leveraging social media to further develop marketing, user experience, and brand growth skills."
+    },
+    {
+        "id": 0,
+        "activity_id": 3,
+        "position": 2,
+        "name": "Volunteer, Math tutor",
+        "finished_tasks": 0,
+        "awards": 0,
+        "to_do_tasks": 0,
+        "date created": "04\/12\/2024",
+        "notes": "Throughout my volunteer experience as a math tutor, I gained insights by administering assessments, tailored workshops on topics like fractions and geometry, and organized small group problem-solving sessions. These activities enhanced my presentation, leadership, and teamwork skills. Winning the Bronze Prize for the President Volunteer Award motivated me to continue my efforts. Moving forward, I plan to gather feedback for improvement and recognize participants' achievements to maintain a positive learning environment."
+    },
+    {
+        "id": 0,
+        "activity_id": 4,
+        "position": 3,
+        "name": "Coursera  Introduction to data science course",
+        "finished_tasks": 0,
+        "awards": 0,
+        "to_do_tasks": 0,
+        "date created": "04\/25\/2024",
+        "notes": "Completing the \"Introduction to Data Science\" course greatly enhanced my skills and confidence. Reviewing the syllabus and setting a study schedule improved my time management and deepened my understanding of complex concepts. Looking ahead, I plan to update my resume, continue coding practice on HackerRank, and apply my skills to real-world projects, bridging the gap between theory and practice. This experience has given me valuable technical skills and a clear direction for my data science career."
+    },
+    {
+        "id": 0,
+        "activity_id": 5,
+        "position": 4,
+        "name": "Remote IT Internship, Leyu Intelligent Technology Co., Ltd",
+        "finished_tasks": 0,
+        "awards": 0,
+        "to_do_tasks": 0,
+        "date created": "06\/12\/2024",
+        "notes": "My internship focused on implementing a company-wide password management system, enhancing my technical, analytical, and communication skills. Conducting training sessions fostered security awareness, and assisting with secure migration emphasized user experience. Winning the 2023 Summer Internship Performance Award recognized my contributions. Moving forward, I plan to establish user support and write a software manual to refine my customer support and technical writing skills, building a strong foundation for my technology career."
+    },
+    {
+        "id": 0,
+        "activity_id": 6,
+        "position": 5,
+        "name": "Captain of the Varsity Swim Team",
+        "finished_tasks": 0,
+        "awards": 0,
+        "to_do_tasks": 0,
+        "date created": "08\/03\/2024",
+        "notes": "As captain of the varsity swim team, I focused on fostering team spirit and personal growth. I organized bonding activities, created a mentorship program, and planned a fundraiser for team expenses, earning us the Swimming Team Spirit Award. I also arranged a sports psychologist workshop on mental resilience and led the team at regional championships. Moving forward, I plan to support teammates academically, celebrate our achievements, and guide younger members to ensure continuous improvement and camaraderie."
+    }
+]

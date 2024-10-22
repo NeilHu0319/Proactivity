@@ -1,0 +1,57 @@
+[
+    {
+        "Activity_Id": "2",
+        "Task_Id": 14,
+        "Award_UC_Name": "IgniteCS Programming Expo Award 3rd Place",
+        "Award_Level_Of_recognition": "Regional",
+        "Award_Type": "Academic",
+        "Award_Grade": "10",
+        "Award_Eligibility": "The project must be related to Computer Science and be implemented using programming techniques. Students are required to show a live demo of the project on the Expo site, and be able to explain the implementation details to the judges.",
+        "Award_Desc": "I received the IgniteCS Programming Expo Award for 3rd Place on November 12, 2023. I brainstormed, defined goals, created a project roadmap, and completed the Personal Finance Tracker Website. I prepared for the expo by acknowledging rules and developing a demo. Upcoming tasks include gathering feedback and enhancing SEO.",
+        "Award_Order": 1
+    },
+    {
+        "Activity_Id": "5",
+        "Task_Id": 36,
+        "Award_UC_Name": "2023 Summer Internship Performance Award",
+        "Award_Level_Of_recognition": "City\/Community",
+        "Award_Type": "Non-academic",
+        "Award_Grade": "10",
+        "Award_Eligibility": "3 recipients are chosen every year for those who performed the best during the 2-month long internship",
+        "Award_Desc": "During my Remote IT Internship at Leyu Intelligent Technology Co., Ltd, I completed onboarding, assessed the existing Password Management System, and implemented a new company-wide system. I conducted training sessions, facilitated a secure password migration, and earned the 2023 Summer Internship Performance Award.",
+        "Award_Order": 2
+    },
+    {
+        "Activity_Id": "3",
+        "Task_Id": 21,
+        "Award_UC_Name": "Bronze Prize for President Volunteer Award",
+        "Award_Level_Of_recognition": "National",
+        "Award_Type": "Non-academic",
+        "Award_Grade": "10",
+        "Award_Eligibility": "To earn the Bronze Prize for the President's Volunteer Award, applicants must be 16+, complete 100 volunteer hours in a year",
+        "Award_Desc": "As a volunteer math tutor, I conducted assessments, delivered workshops on math topics, and organized group problem-solving sessions. My contributions led to receiving the Bronze Prize for the President's Volunteer Award on June 9, 2023.",
+        "Award_Order": 3
+    },
+    {
+        "Activity_Id": "1",
+        "Task_Id": 4,
+        "Award_UC_Name": "2023 Club Activity Award",
+        "Award_Level_Of_recognition": "City\/Community",
+        "Award_Type": "Non-academic",
+        "Award_Grade": "10",
+        "Award_Eligibility": "To be eligible for the Club Activity Award, members must actively participate for at least a year, contribute to three club projects, take on leadership roles, and demonstrate community impact.",
+        "Award_Desc": "As Club President of the AllCity Young Scholar Organization Computer Club, I organized Club Rush Day, attracting 40 new members, and raised $150 through a boba fundraiser. I paired mentors with mentees and earned the 2023 Club Activity Award. Upcoming tasks include Python workshops, inviting tech speakers, and hosting showcase events.",
+        "Award_Order": 4
+    },
+    {
+        "Activity_Id": "6",
+        "Task_Id": 45,
+        "Award_UC_Name": "Swimming Team Spirit Award",
+        "Award_Level_Of_recognition": "State",
+        "Award_Type": "Non-academic",
+        "Award_Grade": "11",
+        "Award_Eligibility": "The Swimming Team Spirit Award recognizes athletes for their positive attitude, sportsmanship, leadership, commitment, and contribution to team culture. Nomination may be required.",
+        "Award_Desc": "As captain of the Varsity Swim Team, he earned the Swimming Team Spirit Award by organizing meetings, mentoring younger swimmers, planning a fundraising event, and coordinating a sports psychology workshop. He also participated in key championships and has future plans for academic support and end-of-season events.",
+        "Award_Order": 5
+    }
+]
